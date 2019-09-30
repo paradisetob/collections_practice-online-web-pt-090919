@@ -11,4 +11,6 @@ array.sort_array_char_count
  end
  end
  array = ["blake", "ashley", "scott"]
- 
+ swap_elements[1,3]
+end
+end
