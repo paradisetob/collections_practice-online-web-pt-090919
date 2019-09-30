@@ -18,3 +18,7 @@ array=[12, 4, 35]
 array.reverse
 end
 end
+keisha_maker = ["blake", "ashley", "scott"]
+keisha_maker.each |letter 3 to $|
+end
+end
