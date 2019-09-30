@@ -14,3 +14,7 @@ array.sort_array_char_count
  swap_elements[1,3]
 end
 end
+array=[12, 4, 35]
+array.reverse
+end
+end
