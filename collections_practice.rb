@@ -10,4 +10,5 @@ array=["dogs", "cat", "Horses"]
 array.sort_array_char_count
  end
  end
+ array = ["blake", "ashley", "scott"]
  
