@@ -22,3 +22,8 @@ keisha_maker = ["blake", "ashley", "scott"]
 keisha_maker.each |letter 3 to $|
 end
 end
+find_a =["apple", "orange", "pear", "avis", "arlo", "ascot" ]
+start_with? (a)
+ end
+ end
+ 
