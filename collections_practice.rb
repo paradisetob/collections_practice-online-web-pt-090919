@@ -30,4 +30,7 @@ start_with? (a)
  sum_array.inject
  end
  end
- 
+ add_s=["hand","feet", "knee", "table"]
+ each_with_index[0,2,3]
+ end
+ end
